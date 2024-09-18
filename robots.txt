@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://vueoaume.github.io/sitemap/sitemap.txt
